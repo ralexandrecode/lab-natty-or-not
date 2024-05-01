@@ -45,7 +45,7 @@ https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_
 
 ## 🧐 Processo de Criação
 
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional. usei o chatgpt para gerar o texto de prompt para criar as imagens.
+O primeiro passo é criar o texto no ChatGPT" que servirá como prompt para alimentar as outras IAs. O em seguida é acessar "ChatGPT" foi utilizado para desenvolver o texto usado para alimentar as IAs com o contexto do que queremos criar. O aúdio foi criado através do ElevenLabs e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional. usei o chatgpt para gerar o texto de prompt para criar as imagens.
 
 ### Exemplo de prompt
 Para que a IA faça uma imagem mais próximo do que queremos é necessário dar detalhes de como a imagem deverá ser para termos um resultado mais preciso. 
@@ -53,27 +53,15 @@ Para que a IA faça uma imagem mais próximo do que queremos é necessário dar 
 Crie imagens 300x300 px sobre um profissoinal de TI Qualificado em tecnologia da informação, com idade entre 40 e 60 Anos, de qualquer gênero e etnia. Ele pode ser um Cientista de Dados, Engenheiro de Software, Analista de Sistemas, Desenvolvedor Web, etc. Ele está em um escritório moderno com tecnologia de ponta, incluindo telas de alta resolução, realidade virtual e assistentes virtuais. Ele é confiante, focado, inovador e criativo. Há robôs ou assistentes virtuais trabalhando ao lado dele. Dados e gráficos estão sendo exibidos em telas de alta resolução. Ele está usando ferramentas de desenvolvimento de software de última geração. O ambiente de trabalho é limpo e organizado. O estilo da imagem é fotorrealista, com iluminação suave e natural, e cores vibrantes e contrastantes.
 
 ```
-
-
-## 🤔 Como fazer passo a passo
-<br>
-### ***Acessar e entrar com sua conta ou e-mail***
-O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
-
 ## 💭 Reflexão
 
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+A era das IA generativas está realmente revolucionando a forma como criamos e interagimos com conteúdo digital. Com a capacidade de transformar prompts de texto em imagens, vídeos e áudios, essas ferramentas abrem um universo de possibilidades para artistas, designers e criadores de conteúdo. Imagine poder ilustrar um livro, criar um vídeo educativo ou desenvolver um podcast inteiro com a ajuda de inteligências artificiais avançadas. É uma nova fronteira criativa que está apenas começando a ser explorada!
 
-
-### Exemplos e Insigths
-## Como 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-## Conquistas 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-## Mais imagens:
+## 📸 Mais imagens:
 ![Texto alternativo](https://th.bing.com/th/id/OIG4.lLBrj0dA0odi89dQHngV?pid=ImgGn)
 ![Texto alternativo](https://th.bing.com/th/id/OIG4.vAijc65dU3jvDxhzO75s?w=1024&h=1024&rs=1&pid=ImgDetMain)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoalexandreprofissional/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ralexandrecode)
+[![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/ricardoalexandre.profissional/badges)
+[![My profile DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DER?style=for-the-badge)](https://www.dio.me/users/ricardoalexandre_profissional)
