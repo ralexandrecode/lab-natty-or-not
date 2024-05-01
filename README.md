@@ -9,21 +9,30 @@ Este documento mostra exemplos de criação de imagens lindíssimas, vídeos rea
 - **[ChatGPT](https://chat.openai.com)** - Usado para criar os prompts corretos para criação de imagens<br>
 - **[D-ID](https://www.d-id.com/)** - Usado para transformar textos em vídeos realistas<br>
 - **[Copilot](https://copilot.microsoft.com/)** - Usado para criar imagens fantásticas<br>
-- **[Azure](https://speech.microsoft.com/audiocontentcreation)** - Usado para transformar textos em voz.
+- **[ElevenLabs](https://elevenlabs.io)** - Usado para transformar textos em voz.
 
-### Exemplo de Imagem criada pelo Copilot da Microsoft
-> O profissional do futuro 👨‍💻
+## Exemplo de Imagem criada pelo Copilot da Microsoft 👨‍💻
+> O profissional do futuro 
 
 ![Texto alternativo](https://th.bing.com/th/id/OIG4.lc6OoAkfkuTLOy1hsiTd?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn)
 ![Texto alternativo](https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/Design%20sem%20nome%20(3).png)
 ![Texto alternativo](https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/Design%20sem%20nome%20(4).png)
 
-### Exemplo de vídeo criado por IA Generativa
+## Exemplo de vídeo criado por IA Generativa 🔴
 Para visualizar o vídeo criado pelo D-ID estúdio clique neste link:
 > LINK para o Vídeo criado por IA Generativa: **[Vídeo Mensagem](https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy)**
 ```markdown
 https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy
 ```
+## Áudio Criado por IA 🔈
+Baixe o áudio e ouça o texto transformado em aúdio
+[Ouça a música aqui](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
+)
+```markdown
+https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
+
+```
+
 ## 🧐 Processo de Criação
 
 "ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional. usei o chatgpt para gerar o texto de prompt para criar as imagens.
@@ -35,14 +44,7 @@ Crie imagens 300x300 px sobre um profissoinal de TI Qualificado em tecnologia da
 
 ```
 
-## Áudio Criado por IA 
-Baixe o áudio e ouça o texto transformado em aúdio
-[Ouça a música aqui](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
-)
-```markdown
-https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
 
-```
 ## 🚀 Resultados
 
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
