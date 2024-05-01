@@ -32,7 +32,11 @@ Este documento mostra exemplos de criação de imagens lindíssimas, vídeos rea
 
 ```markdown
 https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy
+````
+```markdown
 https://studio.d-id.com/share?id=d693e76efdb33b1fd3cb440dbb2d2a95&utm_source=copy
+```
+```markdown
 https://studio.d-id.com/share?id=9a59d5b360b63f9b87fd96c519152f03&utm_source=copy
 ```
 ## Exemplo de áudio criado por IA do Elevenlabs 🔈
@@ -47,7 +51,11 @@ https://studio.d-id.com/share?id=9a59d5b360b63f9b87fd96c519152f03&utm_source=cop
 
 ```markdown
 https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
+```
+```markdown
 https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_50_46_Arnold_pre_s50_sb75_se0_b_m2.mp3
+```
+```markdwon
 https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_45_25_Charlotte_pre_s50_sb75_m1.mp3
 ```
 
