@@ -6,7 +6,8 @@
 > O profissional do futuro 👀
 
 ![Texto alternativo](https://th.bing.com/th/id/OIG4.lc6OoAkfkuTLOy1hsiTd?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn)
-![Texto alternativo](https://th.bing.com/th/id/OIG4.E_TrNeWsMMdPqZlvIdcS?pid=ImgGn)
+![Texto alternativo](https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/Design%20sem%20nome%20(3).png)
+![Texto alternativo](https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/Design%20sem%20nome%20(4).png)
 ![Texto alternativo](https://th.bing.com/th/id/OIG4.lLBrj0dA0odi89dQHngV?pid=ImgGn)
 ![Texto alternativo](https://th.bing.com/th/id/OIG4.vAijc65dU3jvDxhzO75s?w=1024&h=1024&rs=1&pid=ImgDetMain)
 
