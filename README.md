@@ -25,9 +25,14 @@ Para visualizar o vídeo criado pelo D-ID estúdio clique neste link:
 https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy
 ```
 ## Áudio Criado por IA 🔈
-Baixe o áudio e ouça o texto transformado em aúdio
-[Ouça a música aqui](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
-)
+Baixe o áudio e ouça os áudios a seguir com vocês diferentes:<br>
+[Áudio 1](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
+) - Voz da Rachel<br>
+[Áudio 2](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_50_46_Arnold_pre_s50_sb75_se0_b_m2.mp3
+) - Voz do Arnold<br>
+[Áudio 3](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_45_25_Charlotte_pre_s50_sb75_m1.mp3
+) - Voz da Charlotte
+
 ```markdown
 https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
 
