@@ -1,13 +1,17 @@
 # Navegando no Oceano de Possibilidades da IA Generativa
 
-### 🚀 Como utilizar IA generativa para criar imagens fantásticas e vídeos 
+## 🚀 Como utilizar IA generativa para criar imagens e vídeos fantásticos
 
-> Woooow! Look at this 👀
+### Exemplo de Imagem criada.
+> O profissional do futuro 👀
 
-![Texto alternativo](https://th.bing.com/th/id/OIG4.lc6OoAkfkuTLOy1hsiTd?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn)(URL_do_link)
-<p align="center">
-[<img src="https://th.bing.com/th/id/OIG4.VpnZ_eXVD3V1d0tBOPnP?pid=ImgGn" alt="Video Criado em IA Generativa" width="300" height="300">](URL_do_link)
-</p>>
+![Texto alternativo](https://th.bing.com/th/id/OIG4.lc6OoAkfkuTLOy1hsiTd?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn)
+![Texto alternativo](https://th.bing.com/th/id/OIG4.E_TrNeWsMMdPqZlvIdcS?pid=ImgGn)
+![Texto alternativo](https://th.bing.com/th/id/OIG4.lLBrj0dA0odi89dQHngV?pid=ImgGn)
+![Texto alternativo](https://th.bing.com/th/id/OIG4.vAijc65dU3jvDxhzO75s?w=1024&h=1024&rs=1&pid=ImgDetMain)
+
+Vídeo criado por IA Generativa: **[Vídeo Mensagem](https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy)** para roteirização e revisão;
+
 Como parte do bootcamp ...
 
 Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
