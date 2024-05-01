@@ -36,10 +36,13 @@ Crie imagens 300x300 px sobre um profissoinal de TI Qualificado em tecnologia da
 ```
 
 ## Áudio Criado por IA 
-[Ouça a música aqui](https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
+Baixe o áudio e ouça o texto transformado em aúdio
+[Ouça a música aqui](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
 )
+```markdown
+https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
 
-
+```
 https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
 ## 🚀 Resultados
 
