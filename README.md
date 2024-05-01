@@ -24,19 +24,20 @@ Este documento mostra exemplos de criação de imagens lindíssimas, vídeos rea
 
 ## Exemplo de vídeo criado por IA D-ID 🔴
 
->Para visualizar o vídeo criado pelo D-ID estúdio clique nos links:<br>
+>Para visualizar os vídeos clique nos links ou copie e cole no seu navegador:<br>
 
-**[Vídeo 01 ](https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy)**<br>
-**[Vídeo 02 ](https://studio.d-id.com/share?id=d693e76efdb33b1fd3cb440dbb2d2a95&utm_source=copy)**<br>
-**[Vídeo 03 ](https://studio.d-id.com/share?id=9a59d5b360b63f9b87fd96c519152f03&utm_source=copy)**<br>
+**[Vídeo 01 ](https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy)** - Vídeo com Brad <br>
+**[Vídeo 02 ](https://studio.d-id.com/share?id=d693e76efdb33b1fd3cb440dbb2d2a95&utm_source=copy)** - Vídeo com Matt<br>
+**[Vídeo 03 ](https://studio.d-id.com/share?id=9a59d5b360b63f9b87fd96c519152f03&utm_source=copy)** - Vídeo com Ana<br>
 
 ```markdown
 https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy
 https://studio.d-id.com/share?id=d693e76efdb33b1fd3cb440dbb2d2a95&utm_source=copy
-
+https://studio.d-id.com/share?id=9a59d5b360b63f9b87fd96c519152f03&utm_source=copy
 ```
 ## Exemplo de áudio criado por IA do Elevenlabs 🔈
-Baixe o áudio e ouça os áudios a seguir com vocês diferentes:<br>
+> Baixe o áudio e ouça os áudios a seguir com vocês diferentes:<br>
+
 **[Áudio 1](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
 )**- Voz da Rachel<br>
 **[Áudio 2](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_50_46_Arnold_pre_s50_sb75_se0_b_m2.mp3
@@ -52,10 +53,10 @@ https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_
 
 ## 🧐 Processo de Criação
 
-Para criar o texto usado como prompt para alimentar as IAs usamos o "ChatGPT". Os aúdios foram criados através do "ElevenLabs" e podem ser baixados em formato MP3. As imagens foram criadas pela IA "Copilot" da Microsoft, enquanto o "D-ID" foi usado para criar os vídeos realistas.
+Para criar o texto usado como prompt para alimentar as IAs usamos o **"ChatGPT"**. Os aúdios foram criados através do **"ElevenLabs"** e podem ser baixados em formato MP3. As imagens foram criadas pela IA **"Copilot"** da Microsoft, enquanto o **"D-ID"** foi usado para criar os vídeos realistas. Siga os links deste documento para mais informações de uso. Todas as ferramentas são simples de usar e oferece níveis gratuitos de uso.
 
 ### Exemplo de prompt
-Para que a IA faça uma imagem mais próximo do que queremos é necessário dar detalhes de como a imagem deverá ser para termos um resultado mais preciso. 
+Para que a IA entenda o que queremos que ela faça é necessário dar detalhes do processo. Isso é chamado de prompt. É o input que a IA precisa para desenvolver o que foi pedido. Quanto mais detalhes melhor.
 ```markdown
 Crie imagens com tamanho de 300 por 300 pixels sobre o profissional de TI do futuro, o Ricardo Alexandre, qualificado em tecnologia da informação, com idade entre 40 e 60 Anos, do sexo masculino. Ele pode ser um Arquiteto de soluções, Cientista de Dados, Engenheiro de Software, Analista de Sistemas, Desenvolvedor Web, etc. Ele está em um escritório moderno com tecnologia de ponta, incluindo telas de alta resolução, realidade virtual e assistentes virtuais. Ele é confiante, focado, inovador e criativo. Há robôs ou assistentes virtuais trabalhando ao lado dele. Dados e gráficos estão sendo exibidos em telas de alta resolução. Ele está usando ferramentas de desenvolvimento de software de última geração. O ambiente de trabalho é limpo e organizado. O estilo da imagem é fotorrealista, com iluminação suave e natural, e cores vibrantes e contrastantes.
 
