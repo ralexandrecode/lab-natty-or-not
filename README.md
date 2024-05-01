@@ -68,7 +68,7 @@ A era das IA generativas está realmente revolucionando a forma como criamos e i
 ## 📸 Mais imagens:
 ![Texto alternativo](https://th.bing.com/th/id/OIG4.lLBrj0dA0odi89dQHngV?pid=ImgGn)
 ![Texto alternativo](https://th.bing.com/th/id/OIG4.vAijc65dU3jvDxhzO75s?w=1024&h=1024&rs=1&pid=ImgDetMain)
-
+**Conecte-se Comigo:**<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoalexandreprofissional/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ralexandrecode)
 [![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/ricardoalexandre.profissional/badges)
