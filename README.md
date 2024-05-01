@@ -3,12 +3,15 @@
 ## Como utilizar IA generativa para criar imagens e vídeos fantásticos 🚀
 
 ## 📒 Descrição
-Este documento mostra exemplos de criação de imagens lindíssimas, vídeos realistas e áudios que foram criados utilizando IA Generativas.
+Este documento mostra exemplos de criação de imagens lindíssimas, vídeos realistas e áudios utilizando IA Generativa.
 
 ## 🤖 Tecnologias Utilizadas
-**[ChatGPT](https://chat.openai.com)**<br>
-**[D-ID](https://www.d-id.com/)**<br>
-**[Copilot](https://copilot.microsoft.com/)**
+**[ChatGPT](https://chat.openai.com)** - Usado para criar os prompts corretos para criação de imagens<br>
+**[D-ID](https://www.d-id.com/)** - Usado para transformar textos em vídeos realistas<br>
+**[Copilot](https://copilot.microsoft.com/)** - Usado para criar imagens fantásticas<br>
+**[Azure](https://speech.microsoft.com/audiocontentcreation)** - Usado para transformar textos em voz.
+
+https://speech.microsoft.com/audiocontentcreation
 
 ### Exemplo de Imagem criada pelo Copilot da Microsoft
 > O profissional do futuro 👨‍💻
