@@ -4,9 +4,10 @@
 
 > Woooow! Look at this 👀
 
-![Texto alternativo](https://th.bing.com/th/id/OIG4.lc6OoAkfkuTLOy1hsiTd?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn)
-
-
+![Texto alternativo](https://th.bing.com/th/id/OIG4.lc6OoAkfkuTLOy1hsiTd?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn)(URL_do_link)
+<p align="center">
+[<img src="https://th.bing.com/th/id/OIG4.VpnZ_eXVD3V1d0tBOPnP?pid=ImgGn" alt="Video Criado em IA Generativa" width="300" height="300">](URL_do_link)
+</p>>
 Como parte do bootcamp ...
 
 Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
