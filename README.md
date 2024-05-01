@@ -16,7 +16,23 @@ Este documento mostra como usar a IA Generativa para criar imagens fantásticas 
 ![Texto alternativo](https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/Design%20sem%20nome%20(4).png)
 
 ### Exemplo de vídeo criado por IA Generativa
+Para visualizar o vídeo criado pelo D-ID estúdio clique neste link:
 > LINK para o Vídeo criado por IA Generativa: **[Vídeo Mensagem](https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy)**
+```markdown
+https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy
+```
+## 🧐 Processo de Criação
+
+"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional. usei o chatgpt para gerar o texto de prompt para criar as imagens.
+
+## 🚀 Resultados
+
+O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
+
+## 💭 Reflexão
+
+O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+
 
 
 ## Como 
@@ -29,22 +45,7 @@ Este documento mostra como usar a IA Generativa para criar imagens fantásticas 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+ddasfdsf
 ```
 
 ### Exemplos e Insigths
