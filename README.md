@@ -15,7 +15,7 @@ Este documento mostra exemplos de criação de imagens lindíssimas, vídeos rea
 - **[Copilot](https://copilot.microsoft.com/)** - Usado para criar imagens fantásticas<br>
 - **[ElevenLabs](https://elevenlabs.io)** - Usado para transformar textos em voz.
 
-## Exemplo de Imagens criadas pela IA Copilot da Microsoft 👨‍💻
+## Exemplo de imagens criadas pela IA Copilot da Microsoft 👨‍💻
 > O profissional do futuro 
 
 ![Texto alternativo](https://th.bing.com/th/id/OIG4.lc6OoAkfkuTLOy1hsiTd?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn)
@@ -28,7 +28,7 @@ Para visualizar o vídeo criado pelo D-ID estúdio clique neste link:
 ```markdown
 https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy
 ```
-## Áudio Criado por IA do Elevenlabs 🔈
+## Exemplo de áudio criado por IA do Elevenlabs 🔈
 Baixe o áudio e ouça os áudios a seguir com vocês diferentes:<br>
 [Áudio 1](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
 ) - Voz da Rachel<br>
