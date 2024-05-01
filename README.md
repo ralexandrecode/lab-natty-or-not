@@ -2,15 +2,15 @@
 
 ## 🚀 Como utilizar IA generativa para criar imagens e vídeos fantásticos
 
-### Exemplo de Imagem criada.
+### Exemplo de Imagem criada por IA Generativa
 > O profissional do futuro 👀
 
 ![Texto alternativo](https://th.bing.com/th/id/OIG4.lc6OoAkfkuTLOy1hsiTd?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn)
 ![Texto alternativo](https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/Design%20sem%20nome%20(3).png)
 ![Texto alternativo](https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/Design%20sem%20nome%20(4).png)
 
-
-Vídeo criado por IA Generativa: **[Vídeo Mensagem](https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy)** para roteirização e revisão;
+### Exemplo de vídeo criado por IA Generativa
+LINK para o Vídeo criado por IA Generativa: **[Vídeo Mensagem](https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy)**
 
 Como parte do bootcamp ...
 
