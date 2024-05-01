@@ -43,7 +43,6 @@ Baixe o áudio e ouça o texto transformado em aúdio
 https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
 
 ```
-https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
 ## 🚀 Resultados
 
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
