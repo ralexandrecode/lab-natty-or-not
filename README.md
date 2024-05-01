@@ -23,19 +23,26 @@ Este documento mostra exemplos de criação de imagens lindíssimas, vídeos rea
 ![Texto alternativo](https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/Design%20sem%20nome%20(4).png)
 
 ## Exemplo de vídeo criado por IA D-ID 🔴
-Para visualizar o vídeo criado pelo D-ID estúdio clique neste link:
-> LINK para o Vídeo criado por IA Generativa: **[Vídeo Mensagem](https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy)**
+
+>Para visualizar o vídeo criado pelo D-ID estúdio clique nos links:<br>
+
+**[Vídeo 01 ](https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy)**<br>
+**[Vídeo 02 ](https://studio.d-id.com/share?id=d693e76efdb33b1fd3cb440dbb2d2a95&utm_source=copy)**<br>
+**[Vídeo 03 ](https://studio.d-id.com/share?id=9a59d5b360b63f9b87fd96c519152f03&utm_source=copy)**<br>
+
 ```markdown
 https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy
+https://studio.d-id.com/share?id=d693e76efdb33b1fd3cb440dbb2d2a95&utm_source=copy
+
 ```
 ## Exemplo de áudio criado por IA do Elevenlabs 🔈
 Baixe o áudio e ouça os áudios a seguir com vocês diferentes:<br>
-[Áudio 1](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
-) - Voz da Rachel<br>
-[Áudio 2](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_50_46_Arnold_pre_s50_sb75_se0_b_m2.mp3
-) - Voz do Arnold<br>
-[Áudio 3](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_45_25_Charlotte_pre_s50_sb75_m1.mp3
-) - Voz da Charlotte
+**[Áudio 1](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
+)**- Voz da Rachel<br>
+**[Áudio 2](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_50_46_Arnold_pre_s50_sb75_se0_b_m2.mp3
+)** - Voz do Arnold<br>
+**[Áudio 3](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_45_25_Charlotte_pre_s50_sb75_m1.mp3
+)** - Voz da Charlotte
 
 ```markdown
 https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
