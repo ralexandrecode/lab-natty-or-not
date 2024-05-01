@@ -34,6 +34,13 @@ Para que a IA faça uma imagem mais próximo do que queremos é necessário dar 
 Crie imagens 300x300 px sobre um profissoinal de TI Qualificado em tecnologia da informação, com idade entre 40 e 60 Anos, de qualquer gênero e etnia. Ele pode ser um Cientista de Dados, Engenheiro de Software, Analista de Sistemas, Desenvolvedor Web, etc. Ele está em um escritório moderno com tecnologia de ponta, incluindo telas de alta resolução, realidade virtual e assistentes virtuais. Ele é confiante, focado, inovador e criativo. Há robôs ou assistentes virtuais trabalhando ao lado dele. Dados e gráficos estão sendo exibidos em telas de alta resolução. Ele está usando ferramentas de desenvolvimento de software de última geração. O ambiente de trabalho é limpo e organizado. O estilo da imagem é fotorrealista, com iluminação suave e natural, e cores vibrantes e contrastantes.
 
 ```
+
+## Áudio Criado por IA 
+[Ouça a música aqui](https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
+)
+
+
+https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
 ## 🚀 Resultados
 
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
