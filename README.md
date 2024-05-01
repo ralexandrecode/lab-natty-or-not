@@ -11,20 +11,20 @@ Este documento mostra exemplos de criação de imagens lindíssimas, vídeos rea
 - **[Copilot](https://copilot.microsoft.com/)** - Usado para criar imagens fantásticas<br>
 - **[ElevenLabs](https://elevenlabs.io)** - Usado para transformar textos em voz.
 
-## Exemplo de Imagem criada pelo Copilot da Microsoft 👨‍💻
+## Exemplo de Imagens criadas pela IA Copilot da Microsoft 👨‍💻
 > O profissional do futuro 
 
 ![Texto alternativo](https://th.bing.com/th/id/OIG4.lc6OoAkfkuTLOy1hsiTd?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn)
 ![Texto alternativo](https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/Design%20sem%20nome%20(3).png)
 ![Texto alternativo](https://github.com/ralexandrecode/lab-natty-or-not/blob/main/exemplos/Design%20sem%20nome%20(4).png)
 
-## Exemplo de vídeo criado por IA Generativa 🔴
+## Exemplo de vídeo criado por IA D-ID 🔴
 Para visualizar o vídeo criado pelo D-ID estúdio clique neste link:
 > LINK para o Vídeo criado por IA Generativa: **[Vídeo Mensagem](https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy)**
 ```markdown
 https://studio.d-id.com/share?id=e2bb76a093a0137e6b68eae6e6f51492&utm_source=copy
 ```
-## Áudio Criado por IA 🔈
+## Áudio Criado por IA do Elevenlabs 🔈
 Baixe o áudio e ouça os áudios a seguir com vocês diferentes:<br>
 [Áudio 1](https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
 ) - Voz da Rachel<br>
@@ -51,8 +51,9 @@ Crie imagens 300x300 px sobre um profissoinal de TI Qualificado em tecnologia da
 ```
 
 
-## 🚀 Resultados
-
+## 🤔 Como fazer passo a passo
+<br>
+### ***Acessar e entrar com sua conta ou e-mail***
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
 ## 💭 Reflexão
