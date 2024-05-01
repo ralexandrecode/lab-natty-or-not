@@ -35,7 +35,8 @@ Baixe o áudio e ouça os áudios a seguir com vocês diferentes:<br>
 
 ```markdown
 https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_20_55_Rachel_pre_s50_sb75_se0_b_m2.mp3
-
+https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_50_46_Arnold_pre_s50_sb75_se0_b_m2.mp3
+https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_2024-05-01T03_45_25_Charlotte_pre_s50_sb75_m1.mp3
 ```
 
 ## 🧐 Processo de Criação
