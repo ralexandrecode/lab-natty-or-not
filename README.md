@@ -11,8 +11,6 @@ Este documento mostra exemplos de criação de imagens lindíssimas, vídeos rea
 **[Copilot](https://copilot.microsoft.com/)** - Usado para criar imagens fantásticas<br>
 **[Azure](https://speech.microsoft.com/audiocontentcreation)** - Usado para transformar textos em voz.
 
-https://speech.microsoft.com/audiocontentcreation
-
 ### Exemplo de Imagem criada pelo Copilot da Microsoft
 > O profissional do futuro 👨‍💻
 
