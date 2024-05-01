@@ -45,7 +45,7 @@ https://github.com/ralexandrecode/lab-natty-or-not/raw/main/exemplos/ElevenLabs_
 
 ## 🧐 Processo de Criação
 
-O primeiro passo é criar o texto no ChatGPT" que servirá como prompt para alimentar as outras IAs. O em seguida é acessar "ChatGPT" foi utilizado para desenvolver o texto usado para alimentar as IAs com o contexto do que queremos criar. O aúdio foi criado através do ElevenLabs e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional. usei o chatgpt para gerar o texto de prompt para criar as imagens.
+Para criar o texto usado como prompt com texto para alimentar as IAs usamos o "ChatGPT". Os aúdios foram criados através do "ElevenLabs" e podem ser baixados em formato MP3. As imagens foram criada pela IA "Copilot" da Microsoft, enquanto o "D-ID" foi usado para criar os vídeos realistas.
 
 ### Exemplo de prompt
 Para que a IA faça uma imagem mais próximo do que queremos é necessário dar detalhes de como a imagem deverá ser para termos um resultado mais preciso. 
